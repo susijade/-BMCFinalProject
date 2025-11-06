@@ -1,4 +1,4 @@
-# iray_my_app
+# ecommerce_app
 
 A new Flutter project.
 
